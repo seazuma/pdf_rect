@@ -1,0 +1,3 @@
+Found 1 templates
+mypdf2png from input/ to output/, page: 1 - 1
+Error in pdf2image.convert_from_path
